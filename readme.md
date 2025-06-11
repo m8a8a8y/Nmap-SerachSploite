@@ -7,13 +7,13 @@ A cybersecurity tool that automates vulnerability scanning by combining **Nmap**
 
 ## 📚 Table of Contents
 
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Output](#output)
-- [Troubleshooting](#troubleshooting)
-- [Author](#author)
+- Features
+- Requirements
+- Installation
+- Usage
+- Output
+- Troubleshooting
+- Author
 
 ---
 
