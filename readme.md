@@ -1,46 +1,48 @@
-Here is your complete `README.md` file ready for GitHub:
+Nmap SearchSploit Automation Tool
+Automates vulnerability scanning by combining Nmap service detection with SearchSploit vulnerability lookup. Generates organized text and PDF reports summarizing discovered exploits.
 
----
+📚 Table of Contents
+Features
 
-````markdown
-# Nmap SearchSploit Automation Tool
+Requirements
 
-Automates vulnerability scanning by combining **Nmap** service detection with **SearchSploit** vulnerability lookup. Generates organized text and PDF reports summarizing discovered exploits.
+Installation
 
----
+Usage
 
-## 📚 Table of Contents
+Output
 
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Output](#output)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
-- [Author](#author)
+Troubleshooting
 
----
+Contributing
 
-## 🚀 Features
+License
 
-- Interactive CLI to select Nmap timing templates (T1–T5)
-- Option to scan all ports (`-p-`) or default/common ports
-- Performs aggressive scans with service version detection (`-A -sV`)
-- Parses Nmap XML output to extract services and versions
-- Uses **SearchSploit** to find exploits for detected services (based on product + major version)
-- Generates detailed **text and PDF reports**
-- Automatically runs with `sudo` for privileged scan capabilities
+Author
 
----
+🚀 Features
+Interactive CLI to select Nmap timing templates (T1–T5)
 
-## ✅ Requirements
+Option to scan all ports (-p-) or default/common ports
 
-- **Python 3.6+**
-- **Nmap** – [Download](https://nmap.org/download.html)
-- **SearchSploit** – from [Exploit-DB](https://www.exploit-db.com/searchsploit)
-- **fpdf** Python package for PDF report generation
+Performs aggressive scans with service version detection (-A -sV)
+
+Parses Nmap XML output to extract services and versions
+
+Uses SearchSploit to find exploits for detected services (based on product + major version)
+
+Generates detailed text and PDF reports
+
+Automatically runs with sudo for privileged scan capabilities
+
+✅ Requirements
+Python 3.6+
+
+Nmap – Download
+
+SearchSploit – from Exploit-DB
+
+fpdf Python package for PDF report generation
 
 ---
 
