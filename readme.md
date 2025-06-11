@@ -13,8 +13,6 @@ A cybersecurity tool that automates vulnerability scanning by combining **Nmap**
 - [Usage](#usage)
 - [Output](#output)
 - [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
 - [Author](#author)
 
 ---
@@ -141,13 +139,6 @@ This tool is ideal for:
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions and improvements! Here's how to help:
-
-* Report bugs via GitHub [Issues](https://github.com/yourusername/nmap-searchsploit-tool/issues)
-* Submit PRs for features or fixes
-* Suggest enhancements (e.g., CVE scoring, Metasploit integration)
 
 ### 🔧 Future Enhancements
 
@@ -158,22 +149,16 @@ We welcome contributions and improvements! Here's how to help:
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## 👨‍💻 Author
 
 **Mohammad Abu Yahya** ([@m8a8a8y](https://github.com/m8a8a8y))
-Cybersecurity Engineer | CTF Player | Red Team & SOC Analyst
-King Faisal University Cybersecurity Club Leader
-🇯🇴 Based in Jordan | Passionate about Python, Pentesting, and Automation
+
 
 ```
 
 ---
 
-Let me know if you’d like a matching `LICENSE`, `.gitignore`, or `requirements.txt` file.
 ```
