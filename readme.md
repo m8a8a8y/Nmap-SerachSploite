@@ -1,8 +1,4 @@
-Here's the **full `README.md`** file for your **Nmap SearchSploit Automation Tool**, formatted for GitHub and ready to publish:
 
----
-
-````markdown
 # 🔍 Nmap SearchSploit Automation Tool
 
 A cybersecurity tool that automates vulnerability scanning by combining **Nmap** service detection with **SearchSploit** vulnerability lookups. It extracts detected services from a target, searches for known public exploits, and generates both **text and PDF reports** summarizing the results.
